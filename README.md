@@ -37,7 +37,12 @@ Esto va a descargar toddos los módulos de node
 
 -------------------------------------------------------------------------------------------------
 
-** Nota: Debes tener instalado node.js en tu equipo para pode ejecutar los comandos npm y npx.**
+Nota:
+
+- Debes tener instalado node.js en tu equipo para pode ejecutar los comandos npm y npx.
+- ApiKey:
+
+		2d4d1f742dfec0210da0d59d11a7893a
 
 -------------------------------------------------------------------------------------------------
 
